@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1389904-4C37-4203-9318-03B2D19A9D41</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PickUpGames</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>30B641550FAFA69BBF7198CE81009CAA909A5B9E</key>
+		<string>https://github.com/kaua808/PickUpGames.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PickUpGames.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>30B641550FAFA69BBF7198CE81009CAA909A5B9E</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kaua808/PickUpGames.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>30B641550FAFA69BBF7198CE81009CAA909A5B9E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>30B641550FAFA69BBF7198CE81009CAA909A5B9E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PickUpGames</string>
+		</dict>
+	</array>
+</dict>
+</plist>
